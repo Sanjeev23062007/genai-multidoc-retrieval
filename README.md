@@ -66,5 +66,8 @@ print(str(response))
 
 ### OUTPUT:
 ![image alt](https://github.com/Sanjeev23062007/genai-multidoc-retrieval/blob/85d0807ace0b6d6f2fe813048ae0965e2a0fe9f8/Screenshot%202026-03-15%20200123.png)
+1[image alt](https://github.com/Sanjeev23062007/genai-multidoc-retrieval/blob/30bb0f3352107fc5306f1aa8eea2ff86ac771ca5/Screenshot%202026-03-15%20201440.png)
+![image alt](https://github.com/Sanjeev23062007/genai-multidoc-retrieval/blob/30bb0f3352107fc5306f1aa8eea2ff86ac771ca5/Screenshot%202026-03-15%20201558.png)
+
 ### RESULT:
 The system successfully retrieves and synthesizes relevant information from multiple documents, providing concise and relevant answers to the user's query. Performance is evaluated based on the accuracy, relevance, and coherence of the responses.    
